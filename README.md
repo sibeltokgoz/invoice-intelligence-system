@@ -66,3 +66,11 @@ Mega Kablo → 17,500 TRY
 Teknik Bobin → 6,800 TRY  
 
 Total → 66,300 TRY
+
+## Why I Built This
+
+I once worked in accounting and experienced firsthand how repetitive invoice workflows consume time, attention, and human potential.
+
+As a software engineer, I decided to redesign that experience through intelligent automation.
+
+This project is a gift from engineer Sibel to the accountant Sibel I used to be.
